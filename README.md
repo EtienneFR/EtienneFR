@@ -1,6 +1,1 @@
-### Hi!
-
-I'm a student developer in Paris, France 🇫🇷
-
-### Portfolio
-You can visit my portfolio to learn more about me --> [Link](https://etienne-dayre.fr)
+![Metrics](https://metrics.lecoq.io/EtienneFR?template=classic&base.community=0&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FParis&config.animated=true)
