@@ -1,4 +1,4 @@
-Hello! It's Etienne 😄.
+# Hello! It's Etienne 😄.
 
 I'm a web developer who loves create new things and understanding how things are working on.
 I studied at the University Panthéon-Sorbonne in Paris, France. Really passionate about front development, I work on projects with **Svelte**, **React** and **VueJS**.
